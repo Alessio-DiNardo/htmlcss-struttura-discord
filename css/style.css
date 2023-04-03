@@ -18,6 +18,11 @@
     
 }
 
+.second-header{
+    background-color: blue;
+    height: 400px;
+}
+
 nav{
     background-color: orange;
     height: 35px;
@@ -55,4 +60,11 @@ ul{
 
 li{
     margin-right: 7px;
+}
+
+.box-pink{
+    background-color: rgb(247, 109, 173);
+    height: 260px;
+    width: 650px;
+    border: 2px black dashed;
 }
