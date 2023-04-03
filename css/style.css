@@ -14,6 +14,7 @@
     max-width: 800px;
     margin: 0 auto;
     padding-top: 1.5rem;
+    justify-content: space-between;
 }
 
 nav{
@@ -126,14 +127,14 @@ li{
 .box-salmon{
     background-color: rgb(155, 81, 93);
     height: 350px;
-    width: 220px;
+    width: 35%;
     border: 2px black dashed;
 }
 
 .box-acqua{
     background-color: rgb(75, 241, 186);
     height: 350px;
-    width: 144px;
+    width: 16.5%;
     border: 2px black dashed;
 }
 
@@ -147,7 +148,7 @@ li{
     background-color: pink;
     border: 2px black dashed;
     font-size: 1rem;
-    margin: 0 354px;
+    margin-bottom: -15px;
 }
 
 
