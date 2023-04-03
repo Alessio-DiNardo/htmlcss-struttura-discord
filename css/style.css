@@ -84,6 +84,17 @@ li{
     
 }
 
+.back-black{
+    background-color: rgb(29, 28, 28);
+    height: 400px;
+}
+
+.miniback-black{
+    background-color: rgb(29, 28, 28);
+    height: 70px;
+}
+
+
 .box-violet{
     background-color: rgb(247, 109, 173);
     height: 260px;
@@ -111,3 +122,32 @@ li{
     width: 799px;
     border: 2px black dashed;
 }
+
+.box-salmon{
+    background-color: rgb(155, 81, 93);
+    height: 350px;
+    width: 220px;
+    border: 2px black dashed;
+}
+
+.box-acqua{
+    background-color: rgb(75, 241, 186);
+    height: 350px;
+    width: 144px;
+    border: 2px black dashed;
+}
+
+.box-cyan{
+    background-color: aquamarine;
+    height: 40px;
+    width: 799px;
+}
+
+.mini-box{
+    background-color: pink;
+    border: 2px black dashed;
+    font-size: 1rem;
+    margin: 0 354px;
+}
+
+
