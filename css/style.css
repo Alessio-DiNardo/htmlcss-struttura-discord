@@ -80,7 +80,7 @@ li{
 
 .back-big{
     background-color: rgb(184, 184, 184);
-    height: 800px;
+    height: 650px;
     
 }
 
@@ -103,4 +103,11 @@ li{
     height: 350px;
     width: 343px;
     border: 2px black dashed
+}
+
+.box-green{
+    background-color: green;
+    height: 600px;
+    width: 799px;
+    border: 2px black dashed;
 }
