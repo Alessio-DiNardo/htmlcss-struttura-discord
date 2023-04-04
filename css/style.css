@@ -99,8 +99,9 @@ li{
 .box-violet{
     background-color: rgb(247, 109, 173);
     height: 260px;
-    width: 100%;
+    width: 80%;
     border: 2px black dashed;
+    margin: auto;
 }
 
 .box-blue{
